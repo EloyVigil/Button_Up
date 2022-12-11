@@ -1,0 +1,35 @@
+.butt1{
+    color:rgb(62, 246, 246);
+    outline: solid rgb(62, 246, 246);
+    border:2px solid rgb(62, 246, 246);
+    width:10%;
+    border-radius:25px;
+    background-color: aliceblue;
+    box-shadow: 10px 10px 10px lightblue;
+    text-align: center;
+    font-size: 1em;
+    margin:15px;
+}
+.butt2{
+    width:5%;
+    background-color: rgb(4, 201, 201);
+    color: whitesmoke;
+    border-radius: 50%;
+    border:2px solid rgb(4, 201, 201);
+    text-align: center;
+    font-size:3em;
+    margin:15px;
+    padding:auto;
+}
+
+
+.lastbutt{
+    color:whitesmoke;
+    outline: 3px solid black;
+    width:15%;
+    padding:10px;
+    background-color: blue;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+    margin:15px;
+}
